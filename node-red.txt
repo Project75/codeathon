@@ -1,5 +1,24 @@
 https://nodered.org/docs/getting-started/installation
+https://flows.nodered.org/node/node-red-dashboard
+
+
+sudo npm install -g node-red
+node-red
+Open http://localhost:1880
+
+npm install node-red-dashboard
+Dashboard http://localhost:1880/ui
+
+https://www.youtube.com/watch?v=FX5qN2iOgV0
+
 
 https://ubidots.com/blog/learn-more-about-node-red/
 
-https://flows.nodered.org/node/node-red-dashboard
+
+Python/ML
+
+
+https://developer.ibm.com/patterns/predict-equipment-failure-using-iot-sensor-data/
+https://github.com/IBM/iot-predictive-analytics
+
+
